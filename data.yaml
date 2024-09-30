@@ -1,6 +1,0 @@
-train: C:/torch.env/CODE/train/images
-val: C:/torch.env/CODE/valid/images
-
-nc: 7
-names: ['angry', 'disgust', 'fear', 'happy', 'neutral', 'sad', 'surprise']
-
