@@ -85,9 +85,9 @@ function showChart(patientName) {
 
     // Sample progress data for each patient
     const patientProgressData = {
-        'John Doe': [65, 70, 75, 80, 85, 90, 95],
-        'Jane Smith': [55, 60, 70, 75, 80, 85, 90],
-        'Paul Adams': [40, 45, 50, 55, 60, 65, 70]
+        'Dhanush': [65, 70, 75, 80, 85, 90, 95],
+        'Priya Sharma': [55, 60, 70, 75, 80, 85, 90],
+        'Aarav Patel': [40, 45, 50, 55, 60, 65, 70]
     };
 
     // Destroy previous chart if it exists
