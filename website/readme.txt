@@ -1,2 +1,2 @@
 
-![Alt text](images/example.png)
+![Alt text](images/darkmode.png)
