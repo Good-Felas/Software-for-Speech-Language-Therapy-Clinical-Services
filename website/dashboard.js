@@ -20,15 +20,15 @@
  ];
 
  const sessions = [
-     { date: '2024-09-28', patient: 'Jane Smith', duration: '45 minutes', progress: 'Improved fluency' },
-     { date: '2024-09-27', patient: 'John Doe', duration: '30 minutes', progress: 'Steady improvement' },
-     { date: '2024-09-26', patient: 'Paul Adams', duration: '60 minutes', progress: 'Significant progress' }
+     { date: '2024-09-28', patient: 'Dhanush', duration: '45 minutes', progress: 'Improved fluency' },
+     { date: '2024-09-27', patient: 'Priya Sharma', duration: '30 minutes', progress: 'Steady improvement' },
+     { date: '2024-09-26', patient: 'Aarav Patel', duration: '60 minutes', progress: 'Significant progress' }
  ];
 
  const reports = [
-     { patient: 'Alice Johnson', date: '2024-09-25', sessionsCovered: 'Sessions 1-10' },
-     { patient: 'Bob Williams', date: '2024-09-24', sessionsCovered: 'Sessions 1-8' },
-     { patient: 'Carol Brown', date: '2024-09-23', sessionsCovered: 'Sessions 1-12' }
+     { patient: 'Dhanush', date: '2024-09-25', sessionsCovered: 'Sessions 1-10' },
+     { patient: 'Priya Sharma', date: '2024-09-24', sessionsCovered: 'Sessions 1-8' },
+     { patient: 'Aarav Patel', date: '2024-09-23', sessionsCovered: 'Sessions 1-12' }
  ];
 
  // Populate tables
