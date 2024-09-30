@@ -14,9 +14,9 @@
 
  // Sample data
  const patients = [
-     { name: 'John Doe', age: 28, condition: 'Stuttering', progress: 75 },
-     { name: 'Jane Smith', age: 30, condition: 'Speech Delay', progress: 80 },
-     { name: 'Paul Adams', age: 35, condition: 'Fluency Disorder', progress: 60 }
+     { name: 'Dhanush', age: 28, condition: 'Stuttering', progress: 75 },
+     { name: 'Priya Sharma', age: 30, condition: 'Speech Delay', progress: 80 },
+     { name: 'Aarav Patel', age: 35, condition: 'Fluency Disorder', progress: 60 }
  ];
 
  const sessions = [
