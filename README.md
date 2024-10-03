@@ -6,6 +6,7 @@
 5. Providing Feedback and Encouragement: - At the end of each exercise or activity, the chatbot summarizes the patient’s performance, highlights areas of improvement, and offers encouragement. - The chatbot might say, “Great job on the ‘s’ sound today! I noticed some improvement in your pronunciation. Let’s keep working on this sound in the next few sessions.” 
 6. Answering Therapy-Related Questions: - The user can ask the chatbot questions about their therapy progress, session details, or therapy goals. - The chatbot answers questions like, “What progress have I made so far?” or “How many sessions are left in my current plan?” 
 7. Session Summary and Documentation: - After the interaction, the chatbot generates a summary of the session, documenting what was practiced, feedback provided, and recommendations for the next session. - This summary is saved in the user’s profile and shared with the therapist, helping to maintain a comprehensive record of the patient’s progress.
+
 Admin page:
 ![image](https://github.com/user-attachments/assets/f2692d00-feac-46a2-b007-559e1ba1a16b)
 ![image](https://github.com/user-attachments/assets/de9c8cc0-77af-466a-a800-d0b1aa9245d2)
